@@ -1,0 +1,6 @@
+Scenario,Equality_holds,Dominance_holds,Cov_identity_err,theta_u_max,tail_domain_open
+Normal continuous,True,True,0.00025022850118427503,0.0,True
+Poisson discrete,N/A,N/A,N/A,0.6630105384295449,False
+Equality (const g_i),True,N/A,N/A,0.0,True
+Increasing g_i,False,True,0.00016461667454727922,0.0,True
+Decreasing g_i,False,True,0.00033334971499468237,0.0,True

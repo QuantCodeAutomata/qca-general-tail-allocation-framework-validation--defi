@@ -1,0 +1,8 @@
+Scenario,Equality_ok,Max_delta,Note
+Proportional Quantile Equality,True,1.3999999994851464e-06,shares=[0.3 0.7]
+Increasing h => Phi>Psi,False,0.23580755170989368,h_incr=True
+Decreasing h => Phi<Psi,False,0.23580746918904338,h_decr=True
+Location-Scale Discrepancy,True,6.666666616528261e-07,closed-form match
+Pareto Equal Alpha,True,6.000000007833073e-06,alpha=2.5
+Pareto Unequal Alpha,False,0.2336023752505073,conc_ok=True
+Pareto Multiple Min-Alpha,False,0.10965177857722189,"limits=['0.33', '0.67', '0.00']"

@@ -1,0 +1,4 @@
+Scenario,W_bounded,W_limit,Phi_converged,Psi_converged,Bounds_hold,Classification
+Bounded_W_Pareto,True,1.536720703152203,True,True,True,common_limit
+Oscillating_Share_W1,True,1.2506856304647083,False,False,N/A,delta_vanishes_no_limit
+Discrete_Divergent_W,False,12.557788944723617,True,False,N/A,phi_converges_psi_oscillates

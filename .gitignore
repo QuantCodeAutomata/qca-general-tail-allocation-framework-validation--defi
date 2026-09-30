@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.eggs/
+*.egg-info/
+dist/
+build/
+.env
+*.csv
+*.json
+*.parquet
+!results/*.csv
+!results/*.json
+!data/*.json

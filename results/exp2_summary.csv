@@ -1,0 +1,8 @@
+Scenario,Equality_holds,Max_delta,Note
+Homogeneous_Normal,True,0.0017517507076263428,"shares=['0.33', '0.33', '0.33']"
+Heterogeneous_ScaledPoisson,True,0.002368014717561373,"r_i=['0.288', '0.712']"
+Heterogeneous_Gamma,False,0.007622352335602045,Heterogeneous Gamma: no global equality
+Normal_Exact_g,False,0.005693619139492512,"cond1=1.077, dom_sign_ok=True"
+Gamma_n2,False,0.00474000396206975,sign_ok=True
+Tweedie_p1.5,False,0.0009198421030305326,"p=1.5, iota=['0.500', '0.250']"
+GHS_Localization,False,0.0029082847759127617,"t_star=0.5854, localized sign=1.0"
